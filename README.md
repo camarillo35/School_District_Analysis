@@ -1,8 +1,11 @@
 # School_District_Analysis
 Purpose
+
     The purpose of this data analysis task was to return various metrics to the school board so they can compare passing rates with school types, budget dollars, and school size. The pass rate metrics were focused on reading and math. The initial analysis was completed with all fifteen schools, across the ninth through twelfth grade. The final report used modified data due to the discovery of academic dishonesty among the ninth-grade students at Thomas High School.
 How is the district summary affected?
+
     After the removal of the entire Thomas High School ninth-grade class, results did not change the average or passing scores by a significant amount. The largest decrease was the percentage of students passing reading, which saw a 0.3% drop.
+    
 How is the school summary affected?
     The school summary saw insignificant changes to the passing rates in math and reading. The passing rate in reading increased by 0.2% and the passing rate in math increased by 0.1% after the removal of invalid data. 
 How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
